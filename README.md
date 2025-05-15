@@ -110,7 +110,7 @@ This project demonstrates how to set up **full-duplex UART communication** betwe
 **Kowshik-28**
 
 Feel free to explore the code and suggest improvements.  
-🔗 [[LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/kowshik-kancharla-596794204/)) | [GitHub](https://github.com/Kowshik-28)
+🔗 [[LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/kowshik-kancharla-596794204/)) | [GitHub](https://github.com/Kowshik-28)]
 
 ---
 
