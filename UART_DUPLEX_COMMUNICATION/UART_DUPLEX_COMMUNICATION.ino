@@ -8,7 +8,6 @@ void loop() {
    Serial1.write(txByte);     // Send to STM32
   Serial.print("Sent to STM32: 0x");
   Serial.println(txByte, HEX);  // Print HEX value to monitor
-  //hi I am kowshik
   
 
   delay(1000);
